@@ -18,10 +18,11 @@ function Navigation() {
                     <Navbar.Toggle aria-controls="navbarScroll" /> 
                     <Navbar.Collapse id="navbarScroll" className="flex-row-reverse">              
                         <Nav className='nav' navbarScroll>
-                            <Nav.Link>Home</Nav.Link>
-                            <Nav.Link>Cadastro Clientes</Nav.Link>
-                            <Nav.Link>Listagem Clientes</Nav.Link>
-                            <Nav.Link>Realizar Hospedagem</Nav.Link>
+                            <Nav.Link href='/'>Home</Nav.Link>
+                            <Nav.Link href='/cadastro'>Cadastro Clientes</Nav.Link>
+                            <Nav.Link href='/cadastroDependente'>Cadastro Dependentes</Nav.Link>
+                            <Nav.Link href='/listagem' >Listagem Clientes</Nav.Link>
+                            <Nav.Link href='/hospedagem' >Realizar Hospedagem</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

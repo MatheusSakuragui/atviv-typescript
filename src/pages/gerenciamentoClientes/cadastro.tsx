@@ -23,7 +23,7 @@ export default function Cadastro() {
                         <Form.Control
                             required
                             type="text"
-                            placeholder="Insira o nome do cliente"
+                            placeholder="Nome"
                         />
                     </Form.Group>
                 </Row>
@@ -35,7 +35,7 @@ export default function Cadastro() {
                             required
                             name="ofertaPreco"
                             type="text"
-                            placeholder="Insira o nome social do cliente"
+                            placeholder="Nome social"
                         />
                     </Form.Group>
                 </Row>
@@ -47,7 +47,7 @@ export default function Cadastro() {
                             required
                             name="ofertaPreco"
                             type="date"
-                            placeholder="Insira o nome social do cliente"
+                            placeholder="Data de nascimento"
                         />
                     </Form.Group>
                 </Row>
@@ -59,7 +59,7 @@ export default function Cadastro() {
                             required
                             name="ofertaPreco"
                             type="text"
-                            placeholder="Insira o nome social do cliente"
+                            placeholder="Rua"
                         />
                     </Form.Group>
                 </Row>
@@ -71,7 +71,7 @@ export default function Cadastro() {
                             required
                             name="ofertaPreco"
                             type="text"
-                            placeholder="Insira o nome social do cliente"
+                            placeholder="Bairro"
                         />
                     </Form.Group>
                 </Row>
@@ -83,7 +83,7 @@ export default function Cadastro() {
                             required
                             name="ofertaPreco"
                             type="text"
-                            placeholder="Insira o nome social do cliente"
+                            placeholder="Cidade"
                         />
                     </Form.Group>
                 </Row>
@@ -95,7 +95,7 @@ export default function Cadastro() {
                             required
                             name="ofertaPreco"
                             type="text"
-                            placeholder="Insira o nome social do cliente"
+                            placeholder="Estado"
                         />
                     </Form.Group>
                 </Row>
@@ -107,7 +107,7 @@ export default function Cadastro() {
                             required
                             name="ofertaPreco"
                             type="Numero"
-                            placeholder="Insira o nome social do cliente"
+                            placeholder="CEP"
                         />
                     </Form.Group>
                 </Row>

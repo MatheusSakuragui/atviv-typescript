@@ -1,0 +1,19 @@
+
+.table{
+    background-color: #1F826E;
+    width: 95%;
+    border: solid #CEAE7D;
+    color: #F1D8BD;
+}
+
+.iconX:hover{
+    transition: 0.5s;
+    color: #d90429;
+    cursor: pointer;
+}
+
+.iconPen:hover{
+    transition: 0.5s;
+    color: #00f5d4;
+    cursor: pointer;
+}
